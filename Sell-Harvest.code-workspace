@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "sell_harvest"
+		}
+	],
+	"settings": {
+		"dart.analysisExcludedFolders": [
+			"/home/justin/Projects/Sell-Harvest/sell_harvest/ios",
+			"/home/justin/Projects/Sell-Harvest/sell_harvest/android",
+			"/home/justin/Projects/Sell-Harvest/sell_harvest/windows",
+			"/home/justin/Projects/Sell-Harvest/sell_harvest/web",
+			"/home/justin/Projects/Sell-Harvest/sell_harvest/macos",
+			"/home/justin/Projects/Sell-Harvest/sell_harvest/linux"
+		],
+		"dart.onlyAnalyzeProjectsWithOpenFiles": true,
+		"dart.maxCompletionItems": 50000
+	}
+}
